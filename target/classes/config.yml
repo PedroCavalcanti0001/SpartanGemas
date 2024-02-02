@@ -1,0 +1,24 @@
+mysql:
+  password: "senha"
+  host: "localhost"
+  port: 3306
+  user: "root"
+  database: "database"
+  table: "Gemas"
+
+CasasDecimais:
+- ""
+- "K"
+- "M"
+- "B"
+- "T"
+- "Q"
+- "QI"
+- "S"
+- "SEP"
+- "OC"
+- "N"
+- "DEC"
+- "UN"
+- "DUO"
+- "TRE"

@@ -1,0 +1,11 @@
+name: SpartanGemas
+version: 1.0-SNAPSHOT
+main: me.zkingofkill.spartan.gemas.SpartanGemas
+prefix: SpartanGemas
+authors: [zKingOfKill]
+softdepend: [PlaceholderAPI]
+description: plugin de gemas.
+
+commands:
+  gemas:
+    description: Comando para gemas.
